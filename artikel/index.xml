@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artikels on Ifran Lalahi</title>
-    <link>http://ifuran.github.io/artikel/</link>
+    <link>https://ifuran.github.io/artikel/</link>
     <description>Recent content in Artikels on Ifran Lalahi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jun 2022 12:59:03 +0700</lastBuildDate><atom:link href="http://ifuran.github.io/artikel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 12:59:03 +0700</lastBuildDate><atom:link href="https://ifuran.github.io/artikel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memposting Blog Hugo Ke Github</title>
-      <link>http://ifuran.github.io/artikel/memposting-blog-hugo-ke-github/</link>
+      <link>https://ifuran.github.io/artikel/memposting-blog-hugo-ke-github/</link>
       <pubDate>Fri, 03 Jun 2022 12:59:03 +0700</pubDate>
       
-      <guid>http://ifuran.github.io/artikel/memposting-blog-hugo-ke-github/</guid>
+      <guid>https://ifuran.github.io/artikel/memposting-blog-hugo-ke-github/</guid>
       <description>Setelah mencoba belajar dan mengotak-atik Hugo, akhirnya aku cukup lega dengan hasilnya dan bisa memposting artikel-artikel di sini. Meskipun masih perlu banyak perbaikan yang nantinya bisa dilakukan.
 Thanks to SekolahKoding untuk playlist video pembelajarannya dan PetaniKode untuk artikel tutorialnya.
 Selanjutnya aku akan hosting ini ke github page aku.</description>
@@ -20,19 +20,19 @@ Selanjutnya aku akan hosting ini ke github page aku.</description>
     
     <item>
       <title>Artikel Kedua</title>
-      <link>http://ifuran.github.io/artikel/artikel-kedua/</link>
+      <link>https://ifuran.github.io/artikel/artikel-kedua/</link>
       <pubDate>Thu, 02 Jun 2022 13:21:25 +0700</pubDate>
       
-      <guid>http://ifuran.github.io/artikel/artikel-kedua/</guid>
+      <guid>https://ifuran.github.io/artikel/artikel-kedua/</guid>
       <description>Ini adalah artikel kedua dalam proses belajar Hugo.</description>
     </item>
     
     <item>
       <title>Belajar Hugo</title>
-      <link>http://ifuran.github.io/artikel/belajar-hugo/</link>
+      <link>https://ifuran.github.io/artikel/belajar-hugo/</link>
       <pubDate>Thu, 02 Jun 2022 13:10:23 +0700</pubDate>
       
-      <guid>http://ifuran.github.io/artikel/belajar-hugo/</guid>
+      <guid>https://ifuran.github.io/artikel/belajar-hugo/</guid>
       <description>Ini adalah halaman pertama tentang belajar Hugo</description>
     </item>
     
