@@ -24,12 +24,11 @@ header .nav a:hover {
 #content {
 	width: 700px;	
 	margin: 0 auto;
-	padding: 15px;
-	background-color: black;
+	padding: 15px;	
 }
 
 #content #disqus_thread {
-	background-color: #e8e8e8;
+	margin-top: 45px;
 }
 
 #content .info {
@@ -61,9 +60,11 @@ footer {
 	text-align: center;
 	padding: 5px 15px;	
 }
+
 footer .sosmed {
 	padding: 10px 0 0 0;
 }
+
 footer .sosmed a {
 	text-decoration: none;
 	color: #000;
