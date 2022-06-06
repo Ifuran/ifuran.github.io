@@ -6,13 +6,34 @@
     <description>Recent content on Ifran Lalahi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jun 2022 12:59:03 +0700</lastBuildDate><atom:link href="https://ifuran.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 08:25:18 +0700</lastBuildDate><atom:link href="https://ifuran.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tetap Berpose Meskipun Badan Kurus</title>
+      <link>https://ifuran.github.io/konten/tetap-berpose-meskipun-badan-kurus/</link>
+      <pubDate>Mon, 06 Jun 2022 08:25:18 +0700</pubDate>
+      
+      <guid>https://ifuran.github.io/konten/tetap-berpose-meskipun-badan-kurus/</guid>
+      <description>Halo semua! akhir-akhir ini feed Instagram aku banyak diisi dengan konten bodybuilder. Itu membuat aku termotivasi untuk berolahraga untuk membuat bentuk tubuh menjadi lebih bagus. Olahraga yang banyak dilakukan para konten kreator bodybuilder di feed Instagram-ku adalah Calisthenic, olahraga yang dilakukan tanpa harus ke tempat gym.
+Setelah berolahraga, aku suka bercermin untuk melihat tubuh-ku (berfikir perubahan itu instan, hehe). Padahal sebenarnya tubuhku tetap kurus, tapi itu hal yang biasa dilakukan para pria di depan cermin.</description>
+    </item>
+    
+    <item>
+      <title>Menambah Fitur Komentar Pada Hugo</title>
+      <link>https://ifuran.github.io/konten/menambah-fitur-komentar-pada-hugo/</link>
+      <pubDate>Sat, 04 Jun 2022 14:55:46 +0700</pubDate>
+      
+      <guid>https://ifuran.github.io/konten/menambah-fitur-komentar-pada-hugo/</guid>
+      <description>Setelah berhasil men-deploy blog hugo ke Github, selanjutnya aku menambahkan fitur komentar pada blogku. Jadi para pembaca bisa bertanya dan berkomentar pada konten yang aku posting.
+Disini aku menambahkan fitur komentar menggunakan platform Disqus dan juga pastinya bantuan dengan video tutorial SekolahKoding.
+Silahkan berkomentar di blog aku.</description>
+    </item>
+    
     <item>
       <title>Memposting Blog Hugo Ke Github</title>
-      <link>https://ifuran.github.io/artikel/memposting-blog-hugo-ke-github/</link>
+      <link>https://ifuran.github.io/konten/memposting-blog-hugo-ke-github/</link>
       <pubDate>Fri, 03 Jun 2022 12:59:03 +0700</pubDate>
       
-      <guid>https://ifuran.github.io/artikel/memposting-blog-hugo-ke-github/</guid>
+      <guid>https://ifuran.github.io/konten/memposting-blog-hugo-ke-github/</guid>
       <description>Setelah mencoba belajar dan mengotak-atik Hugo, akhirnya aku cukup lega dengan hasilnya dan bisa memposting artikel-artikel di sini. Meskipun masih perlu banyak perbaikan yang nantinya bisa dilakukan.
 Thanks to SekolahKoding untuk playlist video pembelajarannya dan PetaniKode untuk artikel tutorialnya.
 Selanjutnya aku akan hosting ini ke github page aku.</description>
@@ -31,19 +52,19 @@ Doain saya ya, supaya belajarnya lancar dan bisa punya kekuatan super dan menjad
     
     <item>
       <title>Artikel Kedua</title>
-      <link>https://ifuran.github.io/artikel/artikel-kedua/</link>
+      <link>https://ifuran.github.io/konten/artikel-kedua/</link>
       <pubDate>Thu, 02 Jun 2022 13:21:25 +0700</pubDate>
       
-      <guid>https://ifuran.github.io/artikel/artikel-kedua/</guid>
+      <guid>https://ifuran.github.io/konten/artikel-kedua/</guid>
       <description>Ini adalah artikel kedua dalam proses belajar Hugo.</description>
     </item>
     
     <item>
       <title>Belajar Hugo</title>
-      <link>https://ifuran.github.io/artikel/belajar-hugo/</link>
+      <link>https://ifuran.github.io/konten/belajar-hugo/</link>
       <pubDate>Thu, 02 Jun 2022 13:10:23 +0700</pubDate>
       
-      <guid>https://ifuran.github.io/artikel/belajar-hugo/</guid>
+      <guid>https://ifuran.github.io/konten/belajar-hugo/</guid>
       <description>Ini adalah halaman pertama tentang belajar Hugo</description>
     </item>
     
