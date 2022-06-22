@@ -20,6 +20,11 @@ header .nav a {
 header .nav a:hover {
 	opacity: 0.5;
 }
+figure {
+	text-align: center;
+	background-color: green;
+	border-radius: 25%;
+}
 
 #content {
 	width: 700px;	
