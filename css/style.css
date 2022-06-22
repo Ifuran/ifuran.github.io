@@ -17,9 +17,11 @@ header .nav a {
 	color: #000;
 	padding: 15px 15px 0px 0px;
 }
+
 header .nav a:hover {
 	opacity: 0.5;
 }
+
 figure {
 	text-align: center;	
 }
@@ -54,9 +56,11 @@ figure {
 	text-decoration: none;
 	color: #000;	
 }
+
 #content .list li a:hover {
 	opacity: 0.7;
 }
+
 footer {
 	width: 700px;
 	margin: 0 auto;
@@ -73,16 +77,19 @@ footer .sosmed a {
 	color: #000;
 	padding: 15px 15px 0px 0px;
 }
+
 footer .sosmed a:hover {
 	opacity: 0.5;
 }
 
 @media only screen and (max-width: 600px) {
+
   header,
   #content,
   footer {
   	width: 350px;
   }
+  
   img {
   	max-width: 300px;
   }
