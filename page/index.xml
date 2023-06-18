@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Ifran Lalahi</title>
+    <link>https://ifuran.github.io/page/</link>
+    <description>Recent content in Pages on Ifran Lalahi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jun 2022 13:27:02 +0700</lastBuildDate><atom:link href="https://ifuran.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tentang Saya</title>
+      <link>https://ifuran.github.io/page/tentang/</link>
+      <pubDate>Thu, 02 Jun 2022 13:27:02 +0700</pubDate>
+      
+      <guid>https://ifuran.github.io/page/tentang/</guid>
+      <description>Siapakah saya? Hai semua, kenalin aku Ifran Silalahi, biasanya dipanggil nyahut (hiya-hiya). Joke pasaran ya.
+Saya seorang mahasiswa ilmu komputer, ga jago ngoding (kasian bet). Padahal udah bayar mahal buat kuliah. Jadi saya coba belajar programming secara otodidak. Sekarang lagi belajar Hugo.
+Doain saya ya, supaya belajarnya lancar dan bisa punya kekuatan super dan menjadi manusia yang bermanfaat.</description>
+    </item>
+    
+  </channel>
+</rss>
