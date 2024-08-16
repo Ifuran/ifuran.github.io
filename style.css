@@ -22,6 +22,8 @@ body {
 header.navbar-container {
   max-width: 1200px;
   width: 100%;
+  right: 0;
+  left: 0;
   margin-inline: auto;
   display: flex;
   justify-content: space-around;
@@ -108,7 +110,6 @@ main .content .content-description .btn {
   font-size: 1rem;
   font-family: "Quicksand", sans-serif;
   color: white;
-
   border: 3px solid transparent;
   border-radius: 999px;
   background-color: #2d3e50;
@@ -151,7 +152,6 @@ main aside .social-media ul {
   border-top-left-radius: 12px;
   border-bottom-left-radius: 12px;
   background-color: #2d3e50;
-
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
@@ -193,6 +193,7 @@ section h3 + p {
 
 section .about-description .mark {
   color: #2d3e50;
+  font-weight: 700;
 }
 
 section .about-tools {
@@ -224,25 +225,62 @@ section .about-tools-description img {
 
 section .projects-wrapper {
   text-align: center;
-  padding: 5rem 0rem;
+  padding: 1rem 0rem;
 }
+
+section .projects-wrapper .cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 5rem;
+}
+
+section .projects-wrapper .cards .card {
+  border: 1px solid #2d3e50;
+  color: #2d3e50;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  width: 40%;
+}
+
+.card .container {
+  padding: 1rem;
+}
+
+.card .container h2 {
+  padding: 0 0 0.5rem 0;
+}
+
+.card .container .card-links {
+  display: block;
+}
+
+section .projects-wrapper .cards .card img {
+  border: 1px solid #2d3e50;
+  max-width: 100%;
+}
+
 section .btn {
-  padding: 0.8rem 2.5rem;
+  padding: 0.5rem 1.5rem;
   font-weight: 700;
   font-size: 1rem;
-  color: white;
+  color: #fff;
   text-decoration: none;
-  border: 3px solid transparent;
+  border: 2px solid transparent;
   border-radius: 999px;
   background-color: #2d3e50;
   transition: all 0.15s ease-in;
 }
 
 section .btn:hover {
-  border: 3px solid #2d3e50;
+  border: 2px solid #2d3e50;
   color: #2d3e50;
   background-color: transparent;
 }
+
 /*End of Main Content*/
 
 /* Medium devices (landscape tablets, 768px and down) */
@@ -289,5 +327,39 @@ section .btn:hover {
     width: 100px;
     aspect-ratio: 3/2;
     object-fit: contain;
+  }
+
+  section .projects-wrapper .cards {
+    gap: 1rem;
+  }
+
+  section .projects-wrapper .cards .card {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    width: 45%;
+  }
+
+  section .btn {
+    padding: 0.5rem 0.5rem;
+    font-weight: 700;
+    font-size: 0.8rem;
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 999px;
+    background-color: #2d3e50;
+    transition: all 0.15s ease-in;
+  }
+
+  .card .container h2 {
+    font-size: 1rem;
+    /* padding: 0; */
+  }
+
+  .card .container .card-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.2rem;
   }
 }
